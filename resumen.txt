@@ -1,0 +1,15 @@
+RESUMEN DE VENTAS
+==================================================
+
+Producto              Unidades               Total
+--------------------------------------------------
+Laptop                       8            6,800.00
+Monitor                      6            1,320.00
+Auriculares                 14              630.00
+Mouse                       37              573.50
+Webcam                       9              540.00
+Teclado                     15              525.00
+--------------------------------------------------
+TOTAL                       89           10,388.50
+
+Producto más vendido: Mouse (37 unidades)
